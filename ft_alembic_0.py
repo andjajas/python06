@@ -1,2 +1,3 @@
-def test() -> None:
-    pass
+import elements
+
+print(elements.create_fire())

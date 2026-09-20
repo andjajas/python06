@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import alchemy
 from alchemy import healing_potion as heal
 
